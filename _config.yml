@@ -6,7 +6,7 @@ description:  # your text below (remove <br> elements if you don't need line bre
   optimization and data visualization. I am passionate about leveraging my skills to drive innovation and deliver data-driven insights.
   <br><br>
   <a href="https://www.linkedin.com/in/sandip-poudel/">View My LinkedIn Profile</a>  
-remote_theme: pages-themes/minimal@v0.2.0
+
 
 plugins:
 - jekyll-remote-theme
