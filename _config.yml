@@ -6,7 +6,7 @@ description:  # your text below (remove <br> elements if you don't need line bre
   optimization and data visualization. I am passionate about leveraging my skills to drive innovation and deliver data-driven insights.
   <br><br>
   <a href="https://www.linkedin.com/in/sandip-poudel/">View My LinkedIn Profile</a>  
-
+plugins:
+- jekyll-remote-theme
 remote_theme: pages-themes/minimal@v0.2.0
-
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
