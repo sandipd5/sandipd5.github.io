@@ -12,20 +12,20 @@
 <img src="images/jobinsight.png?raw=true"/>
 
 ---
-[Time Series (USD-Euro COnversion](https://github.com/sandipd5/time-series-Euro-USD/tree/main)
-<img src="images/finetunebert.png?raw=true"/>
+[Time Series (USD-Euro Conversion)](https://github.com/sandipd5/time-series-Euro-USD/tree/main)
+<img src="images/currencyconversion.png?raw=true"/>
 
 ---
 
 
 ### NLP and LLMs
 
-- [Finetuning-BERT-with-Pytorch](https://github.com/sandipd5/Finetuning-BERT-with-Pytorch)
+ [Finetuning-BERT-with-Pytorch](https://github.com/sandipd5/Finetuning-BERT-with-Pytorch)
+ <img src="images/finetunebert.png?raw=true"/>
   
 
 
 ---
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
