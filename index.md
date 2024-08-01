@@ -5,7 +5,7 @@
 ### EDA and Machine Learning
 
 [Income Classification Across Canada](https://github.com/sandipd5/Income-Class-Exploration-Visual-Insights)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/histogram.png?raw=true"/>
 
 ---
 [Job Insight](https://github.com/sandipd5/canada-job-insights)
